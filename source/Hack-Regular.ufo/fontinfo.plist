@@ -216,7 +216,7 @@ Except as contained in this notice, the names of Gnome, the Gnome Foundation, an
 	<key>postscriptBlueFuzz</key>
 	<integer>0</integer>
 	<key>postscriptBlueScale</key>
-	<real>0.036999999999999998</real>
+	<real>0.037</real>
 	<key>postscriptBlueShift</key>
 	<integer>14</integer>
 	<key>postscriptBlueValues</key>
@@ -253,10 +253,6 @@ Except as contained in this notice, the names of Gnome, the Gnome Foundation, an
 		<integer>160</integer>
 		<integer>184</integer>
 	</array>
-	<key>postscriptUnderlinePosition</key>
-	<integer>-220</integer>
-	<key>postscriptUnderlineThickness</key>
-	<integer>90</integer>
 	<key>postscriptUniqueID</key>
 	<integer>-1</integer>
 	<key>styleMapFamilyName</key>
@@ -272,7 +268,7 @@ Except as contained in this notice, the names of Gnome, the Gnome Foundation, an
 	<key>versionMajor</key>
 	<integer>3</integer>
 	<key>versionMinor</key>
-	<integer>003</integer>
+	<integer>3</integer>
 	<key>xHeight</key>
 	<integer>1120</integer>
 </dict>
